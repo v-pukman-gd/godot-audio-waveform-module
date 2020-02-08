@@ -1,6 +1,7 @@
 # Godot Engine Audio Waveform Module
 
 This is Godot Engine custom module based on the engine internal waveform preview code.
+
 It consumes original `AudioStreamPreview` and `AudioStreamPreviewGenerator` C++ classes and makes it available in GDScript.
 
 Originally made for Godot 3
