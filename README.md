@@ -4,6 +4,7 @@ This is Godot Engine custom module based on the engine internal waveform preview
 It consumes original `AudioStreamPreview` and `AudioStreamPreviewGenerator` C++ classes and makes it available in GDScript.
 
 Originally made for Godot 3
+
 I tested and it worked in new Godot 4 too.
 
 ## Installing
@@ -22,6 +23,9 @@ And run the new build:
 ## Usage example
 
 In opened project manager window, choose the project folder `audio_wave_test`
+
 Look to `audio_waveform.gd` source.
+
 Run the project.
+
 Have fun!
